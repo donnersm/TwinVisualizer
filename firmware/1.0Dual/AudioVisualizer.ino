@@ -84,7 +84,7 @@
 // USER CONFIG SECTION (please only edit here!)                                                 //
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
-#define VERSION "V1.0Dual, 11.06.2022"
+#define VERSION "v2.0.1, 27.08.2021"
 #define SHOWLOGO                true  // show logo
 #define BUTTON                     2  // PIN0
 #define BUTTON2                    3  // ADDED By MARK DONNERS
